@@ -1,0 +1,2 @@
+tag,arch,eps_int,pgd_steps,best_epoch,clean_accuracy,robust_accuracy,score,checkpoint_path
+gridrun_resnet50_eps8_steps14,resnet50,8,14,90,0.7008,0.4818,0.5913,checkpoints/gridrun_resnet50_eps8_steps14.pt

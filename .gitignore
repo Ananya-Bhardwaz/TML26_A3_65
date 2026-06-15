@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+tml_env/
+venv/
+.env
+
+# Dataset and large files
+data/
+*.npz
+*.pt
+*.pth
+*.tar.gz
+*.zip
+
+# Checkpoints and logs
+checkpoints/
+logs/
+
+# System/editor
+.DS_Store
+.vscode/
+.idea/
